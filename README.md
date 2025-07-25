@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MArk</h1>
+<h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Final-year Computer Science and Engineering student @ GUC | MERN | ML & Deep Learning | Java | Python | React | Always Learning🔥</h3>
 
 <p align="center">
