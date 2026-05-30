@@ -37,18 +37,6 @@
 
 ---
 
-### 🧩 Fun Repos to Check Out
-
-- 🔨 [Awesome Portfolio Website](https://github.com/yourusername/portfolio)
-- ✈️ [TravelPlanner](https://github.com/Advanced-computer-lab-2024/JetSetGo)
-- 📱 [Mobile App with Flutter](https://github.com/yourusername/flutter-app)
-
----
-### 🏆 Certifications
-
-- 🧠 
-
----
 
 ### 📫 Connect with Me
 
