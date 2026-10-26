@@ -14,7 +14,7 @@ I build web applications end to end: React front ends, Node.js and Spring Boot b
 - 💼 **Recently:** a full-stack CRM for a client (React, Node.js, Express) with encrypted per-customer licensing, deployed on Docker + nginx
 - 🏢 **Interned at:** EJADA, on Spring Boot microservices, Kafka, OAuth2 and a WSO2 API gateway
 - 📄 **Research:** first author of *Personalized Smart Home Automation Using Machine Learning* ([Sensors, MDPI, 2025](https://doi.org/10.3390/s25196082))
-- 🎯 **Looking for:** full-stack or backend graduate roles in Cairo
+- 🎯 **Looking for:** graduate roles in Cairo
 
 ---
 
